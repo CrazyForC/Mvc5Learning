@@ -1,0 +1,10 @@
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\bin\Debug\DIP_Ico_Demo.exe.config
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\bin\Debug\DIP_Ico_Demo.exe
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\bin\Debug\DIP_Ico_Demo.pdb
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\obj\Debug\DIP_Ico_Demo.csprojAssemblyReference.cache
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\obj\Debug\DIP_Ico_Demo.csproj.CoreCompileInputs.cache
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\obj\Debug\DIP_Ico_Demo.exe
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\obj\Debug\DIP_Ico_Demo.pdb
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\bin\Debug\Ninject.dll
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\bin\Debug\Ninject.xml
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\DIP_Ico_Demo\obj\Debug\DIP_Ico_Demo.csproj.CopyComplete

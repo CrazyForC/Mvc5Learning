@@ -1,0 +1,7 @@
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\bin\Debug\TaskDemo.exe.config
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\bin\Debug\TaskDemo.exe
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\bin\Debug\TaskDemo.pdb
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\obj\Debug\TaskDemo.csprojAssemblyReference.cache
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\obj\Debug\TaskDemo.csproj.CoreCompileInputs.cache
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\obj\Debug\TaskDemo.exe
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\TaskDemo\obj\Debug\TaskDemo.pdb

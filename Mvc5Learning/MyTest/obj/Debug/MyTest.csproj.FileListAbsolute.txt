@@ -1,0 +1,6 @@
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\MyTest\bin\Debug\MyTest.exe.config
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\MyTest\bin\Debug\MyTest.exe
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\MyTest\bin\Debug\MyTest.pdb
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\MyTest\obj\Debug\MyTest.csproj.CoreCompileInputs.cache
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\MyTest\obj\Debug\MyTest.exe
+E:\MVS\ProjectsManagement\Asp.net\MVC5\Charpter 02\MyTest\obj\Debug\MyTest.pdb
